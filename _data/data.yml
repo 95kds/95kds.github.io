@@ -24,6 +24,12 @@ sidebar:
     #codewars:
     #goodreads: # Number-Username, e.g. 123456-alandoe
 
+    education:
+    - degree: Digital Media Design
+      university: Kaywon University of Art and Design
+      time: 2014 - 2017
+      
+    
     languages:
       - idiom: korean
         level: Native
