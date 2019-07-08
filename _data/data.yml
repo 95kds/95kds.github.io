@@ -49,8 +49,8 @@ career-profile:
     summary: |
       Web Publisher
      
-        PC/Mobile Design 구현
-        WebSite UXUI 기능구현
+       - PC/Mobile Design 구현
+       - WebSite UXUI 기능구현
         
 experiences:
     - role: Web Publisher
@@ -58,9 +58,9 @@ experiences:
       company: funnyfig
       details: |
         
-        php기반 html,css,js를 이용한 
-        웹페이지 페이지 디자인&기능 구현
-        신규 사이트 제작 및 유지보수
+        -php기반 html,css,js를 이용한<br/>
+        웹페이지 페이지 디자인&기능 구현<br/>
+        신규 사이트 제작 및 유지보수<br/>
 
     - role: Web Publisher
       time: 2017.8 - 2018.2
