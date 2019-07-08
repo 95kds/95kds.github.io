@@ -23,12 +23,6 @@ sidebar:
     #stack-overflow: # Number/Username, e.g. 123456/alandoe
     #codewars:
     #goodreads: # Number-Username, e.g. 123456-alandoe
-
-    education:
-    - degree: Digital Media Design
-      university: Kaywon University of Art and Design
-      time: 2014 - 2017
-      
     
     languages:
       - idiom: korean
@@ -47,6 +41,12 @@ sidebar:
 
       - item: Stardew Valley
         link:
+        
+     education:
+    - degree: Digital Media Design
+      university: Kaywon University of Art and Design
+      time: 2014 - 2017
+          
         
 career-profile:
     title: Career Profile
