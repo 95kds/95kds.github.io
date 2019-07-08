@@ -41,11 +41,6 @@ sidebar:
 
       - item: Stardew Valley
         link:
-        
-  education:
-    - degree: Digital Media Design
-      university: Kaywon University of Art and Design
-      time: 2014 - 2017
           
         
 career-profile:
@@ -56,6 +51,12 @@ career-profile:
        - PC/Mobile Design 구현
        - WebSite UXUI 기능구현
         
+education:
+    - degree: Digital Media Design
+      university: Kaywon University of Art and Design
+      time: 2014 - 2017
+
+
 experiences:
     - role: Web Publisher
       time: 2018.2 - 2019.3
