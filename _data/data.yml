@@ -31,12 +31,17 @@ sidebar:
       - idiom: English
         level: medium
 
+    
     interests:
-      - item: Game
-        item: Overwatch
-        item: Autochess
-        item: Stardew Valley
+      - item: Overwatch
+        link:
 
+      - item: Autochess
+        link:
+
+      - item: Stardew Valley
+        link:
+        
 career-profile:
     title: Career Profile
     summary: |
