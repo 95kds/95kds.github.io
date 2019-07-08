@@ -56,7 +56,7 @@ experiences:
       company: funnyfig
       details: |
         
-        -php기반 html,css,js를 이용한
+        php기반 html,css,js를 이용한
         웹페이지 페이지 디자인&기능 구현
         신규 사이트 제작 및 유지보수
 
@@ -65,7 +65,7 @@ experiences:
       company: metanet MCC
       details: |
         
-        -jobkorea 슈퍼기업관
+        jobkorea 슈퍼기업관
         기업소개 페이지 퍼블리싱
 
 projects:
@@ -73,7 +73,7 @@ projects:
 
     assignments:
       - title: allnew
-        link: "www.naver.com"
+        link: "http"//www.naver.com"
         tagline: "기존 크라우드 펀딩 플랫폼 2.0버전 반응형 플랫폼"
 
       - title: 채권
