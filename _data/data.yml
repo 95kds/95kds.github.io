@@ -33,9 +33,9 @@ sidebar:
 
     interests:
       - item: Game
-        Overwatch
-        Autochess
-        Stardew Valley
+       item: Overwatch
+       item: Autochess
+       item: Stardew Valley
         
      #   link:
 
