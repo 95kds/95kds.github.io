@@ -33,8 +33,6 @@ sidebar:
 
     interests:
       - item: Game
-
-        
      #   link:
 
 career-profile:
@@ -85,7 +83,7 @@ skills:
 
     toolset:
 
-       - name: HTML5 & CSS
+      - name: HTML5 & CSS
         level: 98%
         
       - name: Javascript & jQuery
