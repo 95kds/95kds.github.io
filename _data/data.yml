@@ -33,7 +33,9 @@ sidebar:
 
     interests:
       - item: Game
-     #   link:
+        link:Overwatch
+        link:Autochess
+        link:Stardew Valley
 
 career-profile:
     title: Career Profile
