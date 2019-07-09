@@ -48,7 +48,15 @@ career-profile:
      
        - PC/Mobile Design 구현
        - WebSite UXUI 기능구현
-        
+       
+award:
+    - role: Web Publisher
+      time: 2016.5 - 2016.6
+      company: CDACK(communication design association of korea)
+      details: |
+                'G Digital deposit refund machine' - 회장상수상
+            
+
 education:
     - degree: Digital Media Design
       university: Kaywon University of Art and Design
