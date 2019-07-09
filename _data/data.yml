@@ -48,14 +48,7 @@ career-profile:
      
        - PC/Mobile Design 구현
        - WebSite UXUI 기능구현
-       
-
-award:
-    - name: CDACK 회장상 수상 
-      time: 2016.6
-      details: |
-        - CDACK(communication design association of korea)
-        - 'G Digital deposit refund machine'
+      
 
 education:
     - degree: Digital Media Design
@@ -80,6 +73,13 @@ experiences:
         
         jobkorea 슈퍼기업관
         기업소개 페이지 퍼블리싱
+
+award:
+    - name: CDACK 회장상 수상 
+      time: 2016.6
+      details: |
+        - CDACK(communication design association of korea)
+        - 'G Digital deposit refund machine'
 
 projects:
     title: Projects
