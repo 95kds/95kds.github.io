@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: false # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -49,13 +49,13 @@ career-profile:
        - PC/Mobile Design 구현
        - WebSite UXUI 기능구현
        
+
 award:
-    - role: Web Publisher
-      time: 2016.5 - 2016.6
-      company: CDACK(communication design association of korea)
+    - name: CDACK 회장상 수상 
+      time: 2016.6
       details: |
-                'G Digital deposit refund machine' - 회장상수상
-            
+        - CDACK(communication design association of korea)
+        - 'G Digital deposit refund machine'
 
 education:
     - degree: Digital Media Design
