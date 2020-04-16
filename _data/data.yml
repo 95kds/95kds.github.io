@@ -96,8 +96,6 @@ projects:
     title: Projects
 
     assignments:
-        
-      - title: funnyfig
       
       - title: allnew
         link: "http://wp.funnyfig.da.to/"
@@ -106,8 +104,6 @@ projects:
       - title: topfund renewal
         link: "https://www.topfund.kr/"
         tagline: "사이트 메인/서브 리뉴얼 및 반응형에 초점을 많이 두고 작업진행"
-        
-       - title: jobkorea & albamon
        
        - title: 알바몬 기업플레이 채용관
         link: "https://www.albamon.com/Recruit/CorpPlay/Video"
