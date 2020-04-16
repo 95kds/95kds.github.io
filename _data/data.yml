@@ -57,6 +57,17 @@ education:
 
 
 experiences:
+
+    - role: Web Publisher
+      time: 2019.7 - 
+      company: jobkorea & albamon
+      details: |
+        
+        잡코리아 & 알바몬 PC,MOBILE <br/>
+        html,css,scss,js를 이용한
+        유지보수 및 신규페이지 제작
+        
+        
     - role: Web Publisher
       time: 2018.2 - 2019.3
       company: funnyfig
@@ -85,11 +96,9 @@ projects:
     title: Projects
 
     assignments:
-    
-      - title: sk-ii
-        link: "https://ovenapp.io/view/SZsfABKnJLO4Qf2LUqTwWa6RMB2SpzIX/agIsX"
-        tagline: "sk-ii 홈페이지 리뉴얼(개인 프로젝트)"
         
+      - title: funnyfig
+      
       - title: allnew
         link: "http://wp.funnyfig.da.to/"
         tagline: "기존 크라우드 펀딩 플랫폼 2.0버전 반응형 플랫폼"
@@ -98,9 +107,26 @@ projects:
         link: "https://www.topfund.kr/"
         tagline: "사이트 메인/서브 리뉴얼 및 반응형에 초점을 많이 두고 작업진행"
         
-      - title: Bondtrading
-        link: "#"
-        tagline: "채권거래 크라우드펀딩 "
+       - title: jobkorea & albamon
+       
+       - title: 알바몬 기업플레이 채용관
+        link: "https://www.albamon.com/Recruit/CorpPlay/Video"
+        tagline: "신규 기업플레이 채용관제작 동영상 리스트 무한스크롤링 , 뷰포트에 따른 스와이프 제어"
+        
+        - title: 알바몬 모바일 장년 채용관
+        link: "https://m.albamon.com/recruit/senior"
+        tagline: "신규 장년 채용관 제작"
+        
+        - title: 알바몬 브이로그 인재관
+        link: "http://www.albamon.com/ResumeSearch/Vlog"
+        tagline: "신규 브이로그 인재관 제작 ie9 지원"
+        
+        - title: 알바몬 모바일 이벤트 페이지
+        link: "http://m.albamon.com/event/2020newregapril/"
+        tagline: "매월 신규회원가입 이벤트, 코로나19 특별채용관 등 "
+        
+        
+        
         
 
 
